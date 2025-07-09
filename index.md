@@ -302,12 +302,15 @@ Edit the text to match who can attend the workshop. For instance:
 - This workshop is open to the public.
 - If you are interested in attending this workshop, contact me@example.com
   for more information
+{% endcomment %}
+
 
 <p id="who-can-attend">
     <strong>Who can attend?:</strong>
-    This workshop is open to ....
+    This workshop is open to postgraduate students (Masters or PhD) and early career researchers who plan generate and/or analyse genome sequence data using open source (freely available) command line tools. Interested participants will be asked to answer a short questionnaire to explain how genomics is used in their research or work. If more applicants are received than spaces available, priority will be given to those who have a more urgent need (for examples, those who are planning to anlayse their genomic data within the next 6-12 months)
+
+     
 </p>
-{% endcomment %}
 
 <hr/>
 
