@@ -33,16 +33,6 @@ And run 'make workshop-check' *before* committing to make sure that changes are 
 {% endcomment %}
 
 
-
-{% comment %}
-8< ============= For a workshop delete from here =============
-For a workshop please delete the following block until the next dashed-line
-{% endcomment %}
-
-{% comment %}
-8< ============================= until here ==================
-{% endcomment %}
-
 {% comment %}
 Check DC curriculum
 {% endcomment %}
@@ -100,7 +90,7 @@ Edit the general explanatory paragraph below if you want to change
 the pitch.
 {% endcomment %}
 
-###How to Apply
+<h3 id="general">How to Apply</h3>
 
 To participate in this workshop, please register your interest by filling up this form. Places are limited and will be awarded based on relevance of the course to the work that you do or intend to do.
 
