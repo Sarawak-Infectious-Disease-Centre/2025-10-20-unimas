@@ -100,6 +100,12 @@ Edit the general explanatory paragraph below if you want to change
 the pitch.
 {% endcomment %}
 
+###How to Apply
+
+To participate in this workshop, please register your interest by filling up this form. Places are limited and will be awarded based on relevance of the course to the work that you do or intend to do.
+
+You will be asked to explain the relevance of the workshop's contents to your work and how the skills covered in the course is directly applicable and beneficial to your work. Applications must be supported by a recommendation from a scientific or clinical sponsoor, such as your supervisor, line manager or head of department. Priority will be given to participants who are currently working on related skills or will soon be (within the next 12 months).
+
 <p>
 <strong><a href="https://carpentries.org">The Carpentries</a></strong> project comprises the <a
 href="{{site.swc_site}}">Software Carpentry</a>, <a href="{{site.dc_site}}">Data Carpentry</a>, and
