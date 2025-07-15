@@ -136,6 +136,29 @@ This is a pilot workshop, testing out a lesson that is still under development. 
 
 <h3 id="general">About the Workshop</h3>
 
+This workshop will cover the following topics:
+
+<h5 id="general">Project Organisation & Management</h5>
+
+<ul>
+  <li>First item</li>
+  <li>Second item</li>
+  <li>Third item</li>
+</ul>
+
+
+<h5 id="general">Project Organisation & Management</h5>
+
+<ul>
+  <li>First item</li>
+  <li>Second item</li>
+  <li>Third item</li>
+</ul>
+
+
+
+
+
 {% comment %}
 AUDIENCE
 
