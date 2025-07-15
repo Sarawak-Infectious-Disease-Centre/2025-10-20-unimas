@@ -141,21 +141,35 @@ This workshop will cover the following topics:
 <h5 id="general">Project Organisation & Management</h5>
 
 <ul>
-  <li>First item</li>
-  <li>Second item</li>
-  <li>Third item</li>
+  <li>Good data organisation</li>
+  <li>Planning genomics projects</li>
+  <li>Accessing publicly available genomic data</li>
 </ul>
 
-
-<h5 id="general">Project Organisation & Management</h5>
+<h5 id="general">Command line basics</h5>
 
 <ul>
-  <li>First item</li>
-  <li>Second item</li>
-  <li>Third item</li>
+  <li>Why use the command line for genomics?</li>
+  <li>Navigating on the command line</li>
+  <li>Text editing on the command line</li>
+  <li>Effecient ways of working on the command line using scripts and loops</li>
 </ul>
 
 
+<h5 id="general">Genomic data wrangling and processing</h5>
+
+<ul>
+  <li>Illumina read quality control (QC)</li>
+  <li>Variant calling</li>
+</ul>
+
+<h5 id="general">Cloud computing for genomics</h5>
+
+<ul>
+  <li>Why cloud computing?</li>
+  <li>Logging into the Cloud</li>
+  <li>Customising your Cloud Setup</li>
+</ul>
 
 
 
