@@ -102,12 +102,13 @@ You’ll also be asked to briefly describe how the workshop content supports you
 
 <h3 id="general">Registration fees</h3>
 
-<b>Registration Fees:</b>
+<b>Registration Fees*:</b>
 <ul>
   <li>Students** (Masters/PhDs): RM50</li>
   <li>Other participants: RM300</li>
 </ul>
 *Registration includes morning tea, lunch and afternoon tea.
+<br>
 **Full-time or part-time students
 
 <p class="text-center">
