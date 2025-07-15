@@ -90,11 +90,16 @@ Edit the general explanatory paragraph below if you want to change
 the pitch.
 {% endcomment %}
 
-<h3 id="general">How to Apply</h3>
+<h3 id="general">Who should attend?</h3>
 
-To participate in this workshop, please register your interest by filling up this form. Places are limited and will be awarded based on relevance of the course to the work that you do or intend to do.
+This workshop is open to postgraduate students (Master’s or PhD level) and researchers who plan to generate and/or analyse genome sequence data using open-source command-line tools.
 
-You will be asked to explain the relevance of the workshop's contents to your work and how the skills covered in the course is directly applicable and beneficial to your work. Applications must be supported by a recommendation from a scientific or clinical sponsoor, such as your supervisor, line manager or head of department. Priority will be given to participants who are currently working on related skills or will soon be (within the next 12 months).
+Applicants will be asked to complete a short questionnaire describing how genomics is relevant to their research or professional work. If applications exceed available spaces, priority will be given to those with more immediate needs—for example, individuals planning to analyse genomic data within the next 6 to 12 months.
+
+To express your interest in participating, please complete the registration form. As places are limited, selection will be based on the relevance of the workshop to your current or planned work.
+
+You will be asked to explain how the workshop content aligns with your research or professional goals, and how the skills covered will be directly applicable to your work. All applications must be supported by a recommendation from a scientific or clinical sponsor, such as your supervisor, line manager, or head of department.
+
 
 <p>
 <strong><a href="https://carpentries.org">The Carpentries</a></strong> project comprises the <a
@@ -246,13 +251,14 @@ special instructions.
 WORKSHOP RECORDINGS
 
 Modify or remove the block below if you plan to record the workshop.
-{% endcomment %}
 <p id="recordings">
   <strong>Workshop Recordings:</strong>
   Carpentries workshops are designed to be interactive rather than lecture-based, with lessons that build upon one another.
   To foster a positive online learning environment, we strongly recommend that participants join in real time.
   As a result, workshop recordings are not recommended and may not be available to learners.
 </p>
+{% endcomment %}
+
 {% comment %}
 CONTACT EMAIL ADDRESS
 
