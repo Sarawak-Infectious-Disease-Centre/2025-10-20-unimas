@@ -136,6 +136,12 @@ This is a pilot workshop, testing out a lesson that is still under development. 
 
 <h3 id="general">About the Workshop</h3>
 
+<b>Fee structure:</b>
+<ul>
+  <li>Students (Masters/PhDs): RM300</li>
+  <li>Other participants: RM500</li>
+</ul>
+
 This workshop will cover the following topics:
 
 <h5 id="general">Project Organisation & Management</h5>
