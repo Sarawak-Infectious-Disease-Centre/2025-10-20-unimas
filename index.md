@@ -279,7 +279,8 @@ special instructions.
   <strong>Accessibility:</strong>
   We are committed to making this workshop
   accessible to everybody. 
- {% if online == "false" %}
+
+{% if online == "false" %}
   The workshop organizers have checked that:
 <p>
   <ul>
