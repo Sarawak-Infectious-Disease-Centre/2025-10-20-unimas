@@ -104,11 +104,11 @@ You’ll also be asked to briefly describe how the workshop content supports you
 
 <b>Registration Fees:</b>
 <ul>
-  <li>Students (Masters/PhDs): RM300</li>
-  <li>Other participants: RM500</li>
+  <li>Students** (Masters/PhDs): RM50</li>
+  <li>Other participants: RM300</li>
 </ul>
 *Registration includes morning tea, lunch and afternoon tea.
-
+**Full-time or part-time students
 
 <p class="text-center">
   <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=H1ogEjf9-UOjCE1VC1G1gTg-5AT0n89MlOp5y_zbtVpUQUpaUVdWUURQMUdSTzc5R0hURTRJSFRGWi4u">
@@ -145,13 +145,6 @@ This is a pilot workshop, testing out a lesson that is still under development. 
 
 
 <h3 id="general">About the Workshop</h3>
-
-<b>Registration Fees:</b>
-<ul>
-  <li>Students (Masters/PhDs): RM300</li>
-  <li>Other participants: RM500</li>
-</ul>
-*Registration includes morning tea, lunch and afternoon tea.
 
 This workshop will cover the following topics:
 
