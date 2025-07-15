@@ -96,7 +96,7 @@ This workshop is open to postgraduate students (Master’s or PhD level) and res
 
 To help us understand how the workshop fits with your work, we’ll ask you to complete a short questionnaire about how genomics is relevant to your research or professional role. If you're interested in joining, please fill out the registration form below. As places are limited, participants will be selected based on how relevant the workshop is to their current or upcoming work.
 
-You’ll also be asked to briefly describe how the workshop content supports your research or professional goals, and how the skills covered will be useful in your work. A recommendation from a scientific or clinical sponsor such as your supervisor, line manager, or head of department, is also required to support your application.
+A recommendation from a scientific or clinical sponsor such as your supervisor, line manager, or head of department, is also required to support your application.
 
 <h3 id="general">Registration fees</h3>
 
