@@ -96,9 +96,15 @@ This workshop is open to postgraduate students (Master’s or PhD level) and res
 
 Applicants will be asked to complete a short questionnaire describing how genomics is relevant to their research or professional work. If applications exceed available spaces, priority will be given to those with more immediate needs—for example, individuals planning to analyse genomic data within the next 6 to 12 months.
 
-To express your interest in participating, please complete the registration form. As places are limited, selection will be based on the relevance of the workshop to your current or planned work.
+To express your interest in participating, please complete the registration form below. As places are limited, selection will be based on the relevance of the workshop to your current or planned work.
 
 You will be asked to explain how the workshop content aligns with your research or professional goals, and how the skills covered will be directly applicable to your work. All applications must be supported by a recommendation from a scientific or clinical sponsor, such as your supervisor, line manager, or head of department.
+
+<p class="text-center">
+  <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=H1ogEjf9-UOjCE1VC1G1gTg-5AT0n89MlOp5y_zbtVpUQUpaUVdWUURQMUdSTzc5R0hURTRJSFRGWi4u">
+    <button type="button" class="btn btn-info">Register here!</button>
+  </a>
+</p>
 
 
 <h3 id="general">About the Carpentries</h3>
