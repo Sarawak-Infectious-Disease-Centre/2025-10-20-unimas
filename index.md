@@ -100,6 +100,16 @@ If you're interested in joining, please fill out the registration form below. As
 
 You’ll also be asked to briefly describe how the workshop content supports your research or professional goals, and how the skills covered will be useful in your work. A recommendation from a scientific or clinical sponsor such as your supervisor, line manager, or head of department, is also required to support your application.
 
+<h3 id="general">Registration fees</h3>
+
+<b>Registration Fees:</b>
+<ul>
+  <li>Students (Masters/PhDs): RM300</li>
+  <li>Other participants: RM500</li>
+</ul>
+*Registration includes morning tea, lunch and afternoon tea.
+
+
 <p class="text-center">
   <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=H1ogEjf9-UOjCE1VC1G1gTg-5AT0n89MlOp5y_zbtVpUQUpaUVdWUURQMUdSTzc5R0hURTRJSFRGWi4u">
     <button type="button" class="btn btn-info">Register here!</button>
@@ -136,11 +146,12 @@ This is a pilot workshop, testing out a lesson that is still under development. 
 
 <h3 id="general">About the Workshop</h3>
 
-<b>Fee structure:</b>
+<b>Registration Fees:</b>
 <ul>
   <li>Students (Masters/PhDs): RM300</li>
   <li>Other participants: RM500</li>
 </ul>
+*Registration includes morning tea, lunch and afternoon tea.
 
 This workshop will cover the following topics:
 
