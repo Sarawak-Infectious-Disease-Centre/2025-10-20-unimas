@@ -101,6 +101,8 @@ To express your interest in participating, please complete the registration form
 You will be asked to explain how the workshop content aligns with your research or professional goals, and how the skills covered will be directly applicable to your work. All applications must be supported by a recommendation from a scientific or clinical sponsor, such as your supervisor, line manager, or head of department.
 
 
+<h3 id="general">About the Carpentries</h3>
+
 <p>
 <strong><a href="https://carpentries.org">The Carpentries</a></strong> project comprises the <a
 href="{{site.swc_site}}">Software Carpentry</a>, <a href="{{site.dc_site}}">Data Carpentry</a>, and
@@ -235,9 +237,6 @@ special instructions.
   We do not require participants to provide documentation of disabilities or disclose any unnecessary personal information. 
   However, we do want to help create an inclusive, accessible experience for all participants. 
   We encourage you to share any information that would be helpful to make your Carpentries experience accessible.
-  To request an accommodation for this workshop, please fill out the 
-  <a href="https://carpentries.typeform.com/to/B2OSYaD0">accommodation request form</a>.
-  If you have questions or need assistance with the accommodation form please <a href="mailto:team@carpentries.org">email us</a>.
 </p>
 <p>
   <a href="https://glosario.carpentries.org/">Glosario</a> is a multilingual glossary 
@@ -304,7 +303,7 @@ Edit the text to match who can attend the workshop. For instance:
 - This workshop is open to the public.
 - If you are interested in attending this workshop, contact me@example.com
   for more information
-{% endcomment %}
+
 
 
 <p id="who-can-attend">
@@ -313,7 +312,7 @@ Edit the text to match who can attend the workshop. For instance:
 
      
 </p>
-
+{% endcomment %}
 <hr/>
 
 {% comment%}
