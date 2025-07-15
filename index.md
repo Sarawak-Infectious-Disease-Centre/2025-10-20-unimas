@@ -92,13 +92,13 @@ the pitch.
 
 <h3 id="general">Who should attend?</h3>
 
-This workshop is open to postgraduate students (Master’s or PhD level) and researchers who plan to generate and/or analyse genome sequence data using open-source command-line tools.
+This workshop is open to postgraduate students (Master’s or PhD level) and researchers who are planning to generate and/or analyse genome sequence data using open-source command-line tools.
 
-Applicants will be asked to complete a short questionnaire describing how genomics is relevant to their research or professional work. If applications exceed available spaces, priority will be given to those with more immediate needs—for example, individuals planning to analyse genomic data within the next 6 to 12 months.
+To help us understand how the workshop fits with your work, we’ll ask you to complete a short questionnaire about how genomics is relevant to your research or professional role. If we receive more applications than available spaces, priority will be given to those who need to apply these skills soon—such as individuals planning to analyse genomic data within the next 6 to 12 months.
 
-To express your interest in participating, please complete the registration form below. As places are limited, selection will be based on the relevance of the workshop to your current or planned work.
+If you're interested in joining, please fill out the registration form below. As places are limited, participants will be selected based on how relevant the workshop is to their current or upcoming work.
 
-You will be asked to explain how the workshop content aligns with your research or professional goals, and how the skills covered will be directly applicable to your work. All applications must be supported by a recommendation from a scientific or clinical sponsor, such as your supervisor, line manager, or head of department.
+You’ll also be asked to briefly describe how the workshop content supports your research or professional goals, and how the skills covered will be useful in your work. A recommendation from a scientific or clinical sponsor—such as your supervisor, line manager, or head of department, is also required to support your application.
 
 <p class="text-center">
   <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=H1ogEjf9-UOjCE1VC1G1gTg-5AT0n89MlOp5y_zbtVpUQUpaUVdWUURQMUdSTzc5R0hURTRJSFRGWi4u">
