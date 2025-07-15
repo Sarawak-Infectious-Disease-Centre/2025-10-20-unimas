@@ -98,7 +98,7 @@ To help us understand how the workshop fits with your work, we’ll ask you to c
 
 If you're interested in joining, please fill out the registration form below. As places are limited, participants will be selected based on how relevant the workshop is to their current or upcoming work.
 
-You’ll also be asked to briefly describe how the workshop content supports your research or professional goals, and how the skills covered will be useful in your work. A recommendation from a scientific or clinical sponsor—such as your supervisor, line manager, or head of department, is also required to support your application.
+You’ll also be asked to briefly describe how the workshop content supports your research or professional goals, and how the skills covered will be useful in your work. A recommendation from a scientific or clinical sponsor such as your supervisor, line manager, or head of department, is also required to support your application.
 
 <p class="text-center">
   <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=H1ogEjf9-UOjCE1VC1G1gTg-5AT0n89MlOp5y_zbtVpUQUpaUVdWUURQMUdSTzc5R0hURTRJSFRGWi4u">
