@@ -94,9 +94,7 @@ the pitch.
 
 This workshop is open to postgraduate students (Master’s or PhD level) and researchers who are planning to generate and/or analyse genome sequence data using open-source command-line tools.
 
-To help us understand how the workshop fits with your work, we’ll ask you to complete a short questionnaire about how genomics is relevant to your research or professional role. If we receive more applications than available spaces, priority will be given to those who need to apply these skills soon—such as individuals planning to analyse genomic data within the next 6 to 12 months.
-
-If you're interested in joining, please fill out the registration form below. As places are limited, participants will be selected based on how relevant the workshop is to their current or upcoming work.
+To help us understand how the workshop fits with your work, we’ll ask you to complete a short questionnaire about how genomics is relevant to your research or professional role. If you're interested in joining, please fill out the registration form below. As places are limited, participants will be selected based on how relevant the workshop is to their current or upcoming work.
 
 You’ll also be asked to briefly describe how the workshop content supports your research or professional goals, and how the skills covered will be useful in your work. A recommendation from a scientific or clinical sponsor such as your supervisor, line manager, or head of department, is also required to support your application.
 
@@ -104,12 +102,12 @@ You’ll also be asked to briefly describe how the workshop content supports you
 
 <b>Registration Fees*:</b>
 <ul>
-  <li>Students** (Masters/PhDs): RM50</li>
+  <li>Students**: RM50</li>
   <li>Other participants: RM300</li>
 </ul>
 *Registration includes morning tea, lunch and afternoon tea.
 <br>
-**Full-time or part-time students
+**Full-time or part-time enrolled Master's or PhD students
 
 <p class="text-center">
   <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=H1ogEjf9-UOjCE1VC1G1gTg-5AT0n89MlOp5y_zbtVpUQUpaUVdWUURQMUdSTzc5R0hURTRJSFRGWi4u">
