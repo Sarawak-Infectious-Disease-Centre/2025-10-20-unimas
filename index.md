@@ -133,6 +133,9 @@ Sign up to receive future editions and read our full archive: <a href="https://c
 This is a pilot workshop, testing out a lesson that is still under development. The lesson authors would appreciate any feedback you can give them about the lesson content and suggestions for how it could be further improved.
 {% endif %}
 
+
+<h3 id="general">About the Workshop</h3>
+
 {% comment %}
 AUDIENCE
 
