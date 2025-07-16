@@ -109,7 +109,7 @@ A recommendation from a scientific or clinical sponsor such as your supervisor, 
 <br>
 **Full-time or part-time enrolled Master's or PhD students
 
-Registration will close on Monday, 29th September or when all places have been filled. 
+Registration will close on Monday, 29th September 2025 or when all places have been filled. 
 
 <p class="text-center">
   <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=H1ogEjf9-UOjCE1VC1G1gTg-5AT0n89MlOp5y_zbtVpUQUpaUVdWUURQMUdSTzc5R0hURTRJSFRGWi4u">
@@ -510,7 +510,7 @@ please preview your site before committing, and make sure to run
   Library Carpentry
   {% endif %}
   workshop,
-  you will need access to software as described below.
+  you will need access to software as described below (depending on your operating system).
   In addition, you will need an up-to-date web browser.
 </p>
 <p>
