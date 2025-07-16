@@ -98,7 +98,7 @@ To help us understand how the workshop fits with your work, we’ll ask you to c
 
 A recommendation from a scientific or clinical sponsor such as your supervisor, line manager, or head of department, is also required to support your application.
 
-<h3 id="general">Registration fees</h3>
+<h3 id="general">Registration</h3>
 
 <b>Registration Fees*:</b>
 <ul>
