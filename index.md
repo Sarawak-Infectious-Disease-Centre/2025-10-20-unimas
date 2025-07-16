@@ -510,7 +510,7 @@ please preview your site before committing, and make sure to run
   Library Carpentry
   {% endif %}
   workshop,
-  you will need access to software as described below (depending on your operating system).
+  you will need access a working spreadsheet program (e.g. Microsoft Excel). If you don’t have a spreadsheet program already, you can use LibreOffice. It’s a free, open source spreadsheet program. Directions to install are included for each Windows, Mac OS X, and Linux systems. For Windows, you will also need to install either Git Bash, PuTTY, or the Ubuntu Subsystem.
   In addition, you will need an up-to-date web browser.
 </p>
 <p>
